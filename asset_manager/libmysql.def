@@ -1,0 +1,5 @@
+LIBRARY LIBMYSQL.dll
+EXPORTS
+    mysql_close
+    mysql_init
+    mysql_real_connect
